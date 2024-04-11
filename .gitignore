@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### imi file
+The_Java_1.iml
+
+.idea/
